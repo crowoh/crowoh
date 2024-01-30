@@ -11,8 +11,8 @@
 
 <a href="https://chat.openai.com/g/g-457qBAOqm-macro-calculator">GPT A.I. Nutrition Calculator that displays the nutrient information of what you input into a personalized matrix table. </a></h2>
 
-<a href ="https://github.com/crowoh/SenateShowdownz">Website program that shows lobbyist information for legislators, as well as parses other general information. <a><h2>
+<a href ="https://github.com/crowoh/SenateShowdownz">Website program that shows lobbyist information for legislators, as well as parses other general information. </a></h2>
 
-<a href ="https://github.com/crowoh/Wart">Website program that dynamically loads Met Museum information for art created in your area as you scroll down, as well as parses other general information. <a><h2>
+<a href ="https://github.com/crowoh/Wart">Website program that dynamically loads Met Museum information for art created in your area as you scroll down, as well as parses other general information. </a></h2>
 
 
