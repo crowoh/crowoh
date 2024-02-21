@@ -13,6 +13,5 @@
 
 <a href ="https://github.com/crowoh/SenateShowdownz">Website program that shows lobbyist information for legislators, as well as parses other general information. </a></h2>
 
-<a href ="https://github.com/crowoh/Wart">Website program that dynamically loads Met Museum information for art created in your area as you scroll down, as well as parses other general information. </a></h2>
 
 
