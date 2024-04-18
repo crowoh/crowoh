@@ -16,7 +16,7 @@ I am a student studying at the University of California - Santa Cruz interested 
 
 - [Discord Internship bot](https://github.com/Adam101k/Internship-Discord-Bot): Discord bot that searches and lists job openings based on specific criteria. Created and collaborated with a group of friends.
 
-- [GPT A.I. Nutrition Calculator](https://chat.openai.com/g/g-457qBAOqm-macro-calculator): A nutrition calculator powered by GPT AI that displays nutrient information based on user input.
+- [GPT A.I. Nutrition Calculator](https://chat.openai.com/g/g-457qBAOqm-macro-calculator): A nutrition calculator powered by GPT AI that displays nutrient information based on user input. Compatible with images and text descriptions.
   
 - [SenateShowdownz](https://github.com/crowoh/SenateShowdownz): Website program that shows lobbyism information for legislators and parses other general information.
   
