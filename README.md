@@ -20,4 +20,4 @@ I am a student studying at the University of California - Santa Cruz interested 
   
 - [SenateShowdownz](https://github.com/crowoh/SenateShowdownz): Website program that shows lobbyism information for legislators and parses other general information.
   
-- [NeutralNBA](https://github.com/crowoh/NeutralNBA): Data visualization tool designed to analyze and visualize the travel routes, carbon emissions, and environmental impact of NBA players.
+- [NeutralNBA](https://github.com/crowoh/NeutralNBA): Data visualization tool designed to analyze and compile the travel routes, carbon emissions, and environmental impact of NBA players of the past 10 seasons.
