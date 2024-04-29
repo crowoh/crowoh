@@ -4,7 +4,7 @@
 
 <center> 
 I am a student studying at the University of California - Santa Cruz interested in Data Analysis, Cyber-Security, and AI technologies. I'm currently working on a variety of projects, from the development of games to the creation of valuable utility tools. I love to both learn and share knowledge.
-
+<br> 
 Currently working on a 2D Top-down RPG game in Godot 4!
 </center>
 
